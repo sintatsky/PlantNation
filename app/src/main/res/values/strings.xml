@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Plantetica</string>
-    <string name="menu_sync_title">Sync</string>
+    <string name="menu_upload_title">Upload</string>
     <string name="menu_search_title">Search</string>
     <string name="menu_save_title">Save</string>
     <string name="menu_delete_title">Delete</string>

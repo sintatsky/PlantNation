@@ -2,9 +2,9 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <item
-        android:title="@string/menu_sync_title"
-        android:id="@+id/sync"
-        android:icon="@drawable/ic_sync"
+        android:title="@string/menu_upload_title"
+        android:id="@+id/upload"
+        android:icon="@drawable/ic_upload"
         app:showAsAction="ifRoom"
         android:orderInCategory="1"
         />
@@ -16,18 +16,11 @@
         android:orderInCategory="2"
         />
     <item
-        android:title="@string/menu_search_title"
-        android:id="@+id/search"
-        android:icon="@drawable/ic_search"
-        app:showAsAction="ifRoom"
-        android:orderInCategory="3"
-        />
-    <item
         android:title="@string/menu_delete_title"
         android:id="@+id/delete"
         android:icon="@drawable/ic_delete"
         app:showAsAction="ifRoom"
-        android:orderInCategory="4"
+        android:orderInCategory="3"
         />
 
 

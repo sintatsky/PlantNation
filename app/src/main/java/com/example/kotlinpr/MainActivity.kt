@@ -36,10 +36,10 @@ class MainActivity : AppCompatActivity() {
 
                 }
                 R.id.question_answer -> {
-                    supportFragmentManager
-                        .beginTransaction()
-                        .replace(R.id.place_holder, FAQFragment.newInstance())
-                        .commit()
+//                    supportFragmentManager
+//                        .beginTransaction()
+//                        .replace(R.id.rcView, FAQFragment.newInstance())
+//                        .commit()
                 }
 
             }
