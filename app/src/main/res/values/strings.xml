@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Plantetica</string>
+    <string name="menu_sync_title">Sync</string>
+    <string name="menu_search_title">Search</string>
+    <string name="menu_save_title">Save</string>
+    <string name="menu_delete_title">Delete</string>
+    <string name="local_florist">local florist</string>
+    <string name="add_flower">add flower</string>
+    <string name="question_answer">f.a.q.</string>
+    <string name="open_drawer">open drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

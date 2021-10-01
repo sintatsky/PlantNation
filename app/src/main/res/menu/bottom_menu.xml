@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <item android:id="@+id/add_flower"
+        android:icon="@drawable/ic_local_florist"
+        android:title="@string/add_flower"
+        android:orderInCategory="1"/>
+
+    <item android:id="@+id/local_florist"
+        android:icon="@drawable/flowershop"
+        android:title="@string/local_florist"
+        android:orderInCategory="2"/>
+
+    <item android:id="@+id/question_answer"
+        android:icon="@drawable/ic_question_answer"
+        android:title="@string/question_answer"
+        android:orderInCategory="3"/>
+</menu>
